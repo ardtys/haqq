@@ -1,0 +1,7 @@
+[package]
+name = "haqq"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ink = "4.0"
